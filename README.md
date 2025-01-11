@@ -1,7 +1,7 @@
 # Verilog-Codes-Sequential-Circuits
 This Repository contains Verilog RTL &amp; Testbench Codes for Various Digital Electronic Sequential Circuits
 Contents:
-1.  D Flip Flop (Beha
+1.  D Flip Flop
 2.  T Flip Flop using D Flip Flop
 3.  T Flip Flop          
 4.  SR Latch using gate level modelling
