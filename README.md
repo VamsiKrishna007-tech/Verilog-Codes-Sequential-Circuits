@@ -2,6 +2,7 @@
 This Repository contains Verilog RTL &amp; Testbench Codes for Various Digital Electronic Sequential Circuits
 Contents:
 1.  D Flip Flop
+2.  D Flip Flop using Asynchronous Reset
 2.  T Flip Flop using D Flip Flop
 3.  T Flip Flop          
 4.  SR Latch using gate level modelling
@@ -23,5 +24,6 @@ Contents:
 20. 8x16 Asynchronous Dual Port RAM 
 21. Overlapping Sequence Detector 101 using Moore FSM    
 22. Overlapping Sequence Detector 101 using Mealy FSM
-23. Vending Machine                    
+23. Vending Machine   
+24. Fibonacci Series                
                        
